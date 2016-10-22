@@ -1,0 +1,19 @@
+{
+  "name": "week-12-bamazon",
+  "version": "1.0.0",
+  "description": "week 12 assigment",
+  "main": "BamazonCustomer.js",
+  "dependencies": {
+    "inquirer": "^1.2.2",
+    "figlet": "^1.2.0",
+    "cli-table": "^0.3.1",
+    "mysql": "^2.11.1",
+    "mysql2": "^1.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mikee",
+  "license": "ISC"
+}
